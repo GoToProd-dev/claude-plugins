@@ -1,0 +1,13 @@
+{
+  "name": "hcloud-cli",
+  "version": "1.0.0",
+  "description": "Teaches Claude to drive the Hetzner Cloud CLI (hcloud): servers, firewalls, volumes, networks, load balancers, IPs, snapshots, DNS zones, storage boxes, and raw API calls.",
+  "author": {
+    "name": "GoToProd",
+    "url": "https://github.com/GoToProd-dev"
+  },
+  "homepage": "https://github.com/GoToProd-dev/claude-plugins/tree/main/plugins/hcloud-cli",
+  "repository": "https://github.com/GoToProd-dev/claude-plugins",
+  "license": "MIT",
+  "keywords": ["hetzner", "hcloud", "cloud", "infrastructure", "devops"]
+}

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+# Eval runs and workspaces hold real account data. Never commit them.
+evals/
+*-workspace/
